@@ -27,7 +27,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-s(vo2y%2rt32f9n%l)j@y)(mhn1k^iv9@dcwkw32d2sk=7(di2'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['thousandpetals.pythonanywhere.com', 'localhost', '127.0.0.1']
 
